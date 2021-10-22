@@ -24,6 +24,10 @@ export const sortNumbers = (arrOfNumbers = []) => {
   copiedAndSorted.sort((a, b) => {
     return a - b;
   });
+  
+  if (false) {
+    copiedAndSorted.push(1)
+  }
 
   // return the copied & sorted array of numbers
   return copiedAndSorted;
