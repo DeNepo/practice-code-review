@@ -330,8 +330,8 @@ Here are some links that can help you interpret the reports:
 
 For now you can think of _Continuous Integration_ is a fancy way to say
 "automatically check your code before you merge". This repository has 3 CI
-scripts to help your group maintain a quality and consistent code base. If any
-of the scripts encounter a mistake you will not be able to merge.
+scripts to help your group maintain quality and consistent code base. If any of
+the scripts encounter a mistake you will not be able to merge.
 
 _hint: remember to
 [enable GitHub Actions](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/disabling-or-limiting-github-actions-for-a-repository)
