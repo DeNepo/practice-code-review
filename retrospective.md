@@ -21,7 +21,7 @@
 ## Continue Doing
 
 <!--
-  what did your group that worked vwell
+  what did your group that worked well
   agree to keep doing these in the next project
   this could be about anything. communication, code, review, ...
   examples (be specific!):
@@ -33,7 +33,7 @@
 
 <!--
   what ideas does your group have for making a better project next time?
-  agree to give these things a try in the next projec
+  agree to give these things a try in the next project
   this could be about anything. communication, code, review, ...
   examples (be specific!):
   - use @mentions more often
@@ -44,5 +44,6 @@
 
 <!--
   what cool things or general lessons has your team learned?
-  This can be about anything! code, collaboration, git, github, Belgian history, ...
+  This can be about anything! code, collaboration, git, github,
+  Belgian history, ...
 -->

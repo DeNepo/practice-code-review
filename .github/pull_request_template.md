@@ -12,6 +12,12 @@ title: 'Code Review: challenge name, strategy name'
   - request a review
 -->
 
+<!-- describe your PR -->
+
+# Description
+
+<!-- A clear and concise description of what the Pull Request is about. -->
+
 Before the reviewer merges this PR to main/master, all of these boxes must be
 checked. Only the reviewer can check boxes.
 

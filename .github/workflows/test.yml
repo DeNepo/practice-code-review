@@ -14,9 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Test using Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: '12'
+          check-latest: true
+          node-version: 'lts/Hydrogen'
       - run: npm install
       - run: npm run test -- ./src
       - name: Tests ✅

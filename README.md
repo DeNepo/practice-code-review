@@ -11,10 +11,10 @@ make the transition to collaborative development much smoother.
 - Writing Code
   - [Repo Setup](#repo-setup)
   - [Local Setup](#local-setup)
-  - [Developing Your Solutions](#developing-your-solution)
+  - [Developing Your Solutions](#developing-your-solutions)
 - [Code Quality Automation](#code-quality-automation)
   - [`npm` scripts](#npm-scripts)
-  - [Code Coverate](#code-coverage)
+  - [Code Coverage](#code-coverage)
   - [Continuous Integration](#continuous-integration)
 
 ---

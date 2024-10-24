@@ -1,5 +1,5 @@
 {
-  "plugins": ["jsdoc", "prefer-arrow","sonarjs"],
+  "plugins": ["jsdoc", "prefer-arrow", "sonarjs"],
   "parserOptions": {
     "sourceType": "module"
   },
@@ -77,7 +77,6 @@
       }
     ],
     "camelcase": [2, { "properties": "never" }],
-
 
     "prefer-arrow/prefer-arrow-functions": ["warn"],
 
